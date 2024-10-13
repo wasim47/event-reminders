@@ -71,3 +71,11 @@ Steps to Install and Run the Project
             Run migrations
 
             php artisan serve
+
+            For Email send run this commandd
+            php artisan send:reminder-mails
+
+            Note: Email will send if event found form now to next 24 hours
+
+
+**Task Note:** I can work more efficiently, can add bearer token using API, but for time it's not done in task, I hope you understand.
